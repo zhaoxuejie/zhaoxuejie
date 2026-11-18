@@ -24,6 +24,7 @@
 | [moqian-bilitube](https://www.51bilitube.com) | 从 3,652 个 B 站 AI 视频里筛出 1,360 个值得看的：分区×时长分位打分 + 让模型读弹幕写判断 |
 | [moqian-agent-harness](https://github.com/zhaoxuejie/moqian-agent-harness) | 从零手写 LLM Agent Harness：运行循环、工具、RAG、MCP、记忆、Skill，29 个阶段全部可运行 |
 | [moqian-fin-lens](https://github.com/zhaoxuejie/moqian-fin-lens) | A 股年报 PDF → 可核对的财务视图：三表、20 项指标、11 张图，每个数字溯源到原文页码 |
+| [moqian-wendy-translator](https://github.com/zhaoxuejie/moqian-wendy-translator) | 专为女儿温蒂做的英语学习应用：智能翻译、词典、单词本、AI 对话「小语」与单词游戏，支持语音输入与 OCR |
 | [moqian-ai-template](https://github.com/zhaoxuejie/moqian-ai-template) | AI Agent 工程治理模板：文档闸门、增量任务卡、版本快照，克隆即用 |
 | [dsh-plugin-tool-guard](https://github.com/zhaoxuejie/dsh-plugin-tool-guard) | DeepSeek Harness 工具调用安全守卫：危险命令拦截、路径白名单、敏感文件黑名单、人工审批与审计 |
 | [lumen-68](https://zhaoxuejie.github.io/lumen-68/) | 原创 68 键机械键盘的交互式 3D 产品页：Three.js + Vite，三外壳 × 三键帽主题 |
