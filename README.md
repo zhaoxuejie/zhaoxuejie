@@ -27,6 +27,7 @@
 | [moqian-wendy-translator](https://github.com/zhaoxuejie/moqian-wendy-translator) | 专为女儿温蒂做的英语学习应用：智能翻译、词典、单词本、AI 对话「小语」与单词游戏，支持语音输入与 OCR |
 | [moqian-ai-template](https://github.com/zhaoxuejie/moqian-ai-template) | AI Agent 工程治理模板：文档闸门、增量任务卡、版本快照，克隆即用 |
 | [dsh-plugin-tool-guard](https://github.com/zhaoxuejie/dsh-plugin-tool-guard) | DeepSeek Harness 工具调用安全守卫：危险命令拦截、路径白名单、敏感文件黑名单、人工审批与审计 |
+| [dsh-plugin-learning-path](https://zhaoxuejie.github.io/dsh-plugin-learning-path/) | DeepSeek Harness 插件开发在线教程：15 节课程 + 4 个实战项目 + 发布课，交互式单页应用，零构建 |
 | [lumen-68](https://zhaoxuejie.github.io/lumen-68/) | 原创 68 键机械键盘的交互式 3D 产品页：Three.js + Vite，三外壳 × 三键帽主题 |
 
 > 全部 DSH 插件见 [moqian-dsh-plugin-list](https://github.com/zhaoxuejie/moqian-dsh-plugin-list)。
